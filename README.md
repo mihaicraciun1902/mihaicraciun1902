@@ -18,6 +18,12 @@ Most of my work revolves around understanding how things function at a low level
 
 ---
 
+🎓 Education
+- Bachelor's Degree in Computer Science (2023–2027)
+- University Politehnica of Bucharest, Faculty of Automatic Control and Computer Science
+
+---
+
 ### 📌 Interests
 - Systems programming  
 - Backend concepts  
@@ -28,7 +34,6 @@ Most of my work revolves around understanding how things function at a low level
 ### 🏆 Background
 - Bitdefender Programming Contest — Top 25%  
 - AcadNet National Contest — 2nd & 3rd Prize  
-- Student at **University Politehnica of Bucharest**
 
 ---
 
